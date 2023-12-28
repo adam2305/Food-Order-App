@@ -44,7 +44,10 @@ Each user has it's own unique account.
   ```
 
 ## Getting started
-Step-by-step instructions to install and run the app
-
+Step-by-step instructions to install and run the app : 
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/adam2305/Food-Order-App.git
+    ```
 
 
