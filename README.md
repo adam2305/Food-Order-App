@@ -51,7 +51,21 @@ Step-by-step instructions to install and run the app :
     ```
 2. Run the backend:
     ```bash
-    git clone https://github.com/adam2305/Food-Order-App.git
+    cd app_backed
+    uvicorn main:app --host 0.0.0.0 --port 8000
     ```
+3. Run the backend:
+    ```bash
+    cd app_frontend
+    flutter pub get
+    flutter run
+    ```
+
+## Project Structure
+The front end of this mobile app (app_frontend folder) is entirely written in Flutter.
+All the data is retrieved from a custom backend API.
+The backend is a custom API allowing the app to interact with a database. The REST Api is written in 
+python using the FastAPI framework.
+
 
 
