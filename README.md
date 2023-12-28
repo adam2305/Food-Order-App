@@ -40,7 +40,7 @@ Each user has it's own unique account.
 - [Python](https://www.python.org/downloads/) for the backend
     - To install all libraries
   ```
-  pip install -r requirements.txt
+  pip install -r app_backend/requirements.txt
   ```
 
 
