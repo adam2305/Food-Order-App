@@ -25,8 +25,8 @@ Each user has it's own unique account.
 - Choose between different products and fill up their chart
 <p align="center">
   <img src="screenshots/Screenshot_20231228_174926.png" width="170" >
-  <img src="screenshots/Screenshot_20231228_173843.png" width="170" >
-  <img src="screenshots/Screenshot_20231228_175122.png" width="170" >
+  <img src="screenshots/Screenshot_20231228_180722.png" width="170" >
+  <img src="screenshots/Screenshot_20231228_180814.png" width="170" >
 </p>
 
 
