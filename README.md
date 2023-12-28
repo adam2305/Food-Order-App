@@ -68,5 +68,13 @@ All the data is retrieved from a custom backend API.
 The backend is a custom API allowing the app to interact with a database. The REST Api is written in 
 python using the FastAPI framework.
 
+## Backend
+To access more detailed data on the API you can access the documentation :
+``bash
+   http://120.0.0.1:8000/docs
+   http://120.0.0.1:8000/redoc
+   
+    ```
+
 
 
