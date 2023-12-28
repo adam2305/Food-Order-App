@@ -29,5 +29,10 @@ Each user has it's own unique account.
   <img src="screenshots/Screenshot_20231228_180814.png" width="170" >
 </p>
 
+- Change between dark and light mode
+<p align="center">
+  <img src="screenshots/Screenshot_20231228_175007.png" width="170" >
+  <img src="screenshots/Screenshot_20231228_174926.png" width="170" >
+</p>
 
 
