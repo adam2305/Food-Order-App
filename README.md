@@ -9,7 +9,7 @@
 - [Backend](#backend)
 - [License](#license)
 
-  ## Introduction
+## Introduction
 Food delivery app is a simple mobile app that allows it's user to choose between different products and make an order. The order is registered in an external database.
 
 ## Features
