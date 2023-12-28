@@ -64,6 +64,7 @@ Step-by-step instructions to install and run the app :
 ## Project Structure
 The front end of this mobile app (app_frontend folder) is entirely written in Flutter.
 All the data is retrieved from a custom backend API.
+
 The backend is a custom API allowing the app to interact with a database. The REST Api is written in 
 python using the FastAPI framework.
 
