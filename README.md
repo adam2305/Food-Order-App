@@ -49,10 +49,9 @@ Step-by-step instructions to install and run the app :
     ```bash
     git clone https://github.com/adam2305/Food-Order-App.git
     ```
-Run the backend
-2. Install dependencies:
+2. Run the backend:
     ```bash
-    flutter pub get
+    git clone https://github.com/adam2305/Food-Order-App.git
     ```
 
 
