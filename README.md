@@ -74,6 +74,10 @@ To access more detailed data on the API you can access the documentation:
 [http://120.0.0.1:8000/docs]
 
 [http://120.0.0.1:8000/redoc]
+
+## License
+[MIT License](LICENSE)
+
    
     
 
