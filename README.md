@@ -70,11 +70,10 @@ python using the FastAPI framework.
 
 ## Backend
 To access more detailed data on the API you can access the documentation:
-``bash
-   http://120.0.0.1:8000/docs
-   http://120.0.0.1:8000/redoc
+[http://120.0.0.1:8000/docs]
+[http://120.0.0.1:8000/redoc]
    
-    ```
+    
 
 
 
