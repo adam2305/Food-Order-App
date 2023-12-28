@@ -43,5 +43,8 @@ Each user has it's own unique account.
   pip install -r app_backend/requirements.txt
   ```
 
+## Getting started
+Step-by-step instructions to install and run the app
+
 
 
