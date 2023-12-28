@@ -14,5 +14,7 @@ Food delivery app is a simple mobile app that allows it's user to choose between
 
 # Features
 
-- User sessions 
+- User sessions
+Each user has it's own unique account.
+![alt text](screenshots/Screenshot_20231228_173818.png
 
