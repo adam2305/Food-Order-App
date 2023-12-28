@@ -19,6 +19,7 @@ Each user has it's own unique account.
 <p align="center">
   <img src="screenshots/Screenshot_20231228_173818.png" width="170" >
   <img src="screenshots/Screenshot_20231228_173843.png" width="170" >
+  <img src="screenshots/Screenshot_20231228_175122.png" width="170" >
 </p>
 
 
