@@ -36,6 +36,8 @@ Each user has it's own unique account.
 </p>
 
 ## Prerequisites
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Python](https://www.python.org/downloads/) for the backend
 
 
 
